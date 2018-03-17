@@ -1,7 +1,8 @@
-/*
-Tic Tac Toe
-Started: 2/2/18
-*/
+﻿/*
+ * Tic Tac Toe
+ * Derek Tan
+ * 2/2/18 - today
+ */
 
 using System;
 using System.Collections.Generic;
